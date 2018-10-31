@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class DBConnector {
 	//Name of the database schema
 	private static String schema = "cz3002_db";
-	//Credentials of the MySQL user (Replace with your user credentials)
+	//Credentials of the MySQL user (Replace with your MySQL server user credentials)
 	private static String user = "root";
 	private static String password = "root";
 	
